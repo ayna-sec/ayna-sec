@@ -22,7 +22,7 @@ UpgradeHub/Bootcamp de Ciberseguridad    ████████████░
 <img src="https://tryhackme-badges.s3.amazonaws.com/goldendynasty.png" alt="TryHackMe">
 
 <!-- Roadmap -->
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bdfb0891320df4bde6c66e?variant=dark&roadmaps=cyber-security" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bdfb0891320df4bde6c66e?variant=dark" alt="roadmap.sh"/></a>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/goldendynasty/count.svg) <!-- credits: https://x.com/ryanlanciaux/status/1283755637126705152 -->
