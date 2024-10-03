@@ -4,10 +4,8 @@
 ```                                                                                                                                                                 
 
 ## 👋 Hello, I'm Angie Yuliana
-<a href="https://www.linkedin.com/in/angie-yuliana-naranjo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 - I'm Angie Yuliana, and I'm on my way to become a Cybersecurity Analyst.
-- 📫 How to reach me: [LinkedIn/Angie-Yuliana-Naranjo](www.linkedin.com/in/angie-yuliana-naranjo)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/angie-yuliana-naranjo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 📚 Courses
 <!-- █ ░-->
@@ -25,21 +23,20 @@ HTB/Intro to Network Analysis            █░░░░░░░░░░░░
 .........................
 ```
 
-<!-- -->
 ## Objective
 
 I've always felt curious for cybersecurity and this year I fully decided to transition to this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects showcasing cybersecurity skills
 
-| Skill                                         | Associated Project         |
+| Project                                         | Status         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <!--<a href="https://google.com">Detection Lab</a>--> Coming soon |
-| Network Traffic Monitoring and Attack Detection | Conception Stage |
+| SOC automation: Wazuh & SOAR implementation   | In progress: <a href="https://ayna-sec.github.io/blog/projects/Open-Source-SOC-automation-project/">Part 1/?</a> |
+<!--| Network Traffic Monitoring and Attack Detection | Conception Stage |
 | Security Automation with Shuffle SOAR         | Conception Stage |
 | Incident Response Planning and Execution      | Conception Stage |
 | Case Management with TheHive                  | Conception Stage |
-| Scripting and Automation for Threat Mitigation | Conception Stage |
+| Scripting and Automation for Threat Mitigation | Conception Stage |-->
 
 ## Tools
 
@@ -73,14 +70,16 @@ I've always felt curious for cybersecurity and this year I fully decided to tran
 <img src="https://img.shields.io/badge/CDSA-9FEF00?&style=for-the-badge&logo=HackTheBox&logoColor=white" /> > Studying
 </div>
 
-<!-- <img src="" /> -->
+<!-- for quick copy&paste:
+<img src="" />
+-->
 
 ## 📈 Progress & Badges
 <!-- TryHackMe -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/goldendynasty.png" alt="TryHackMe">
+
 
 <!-- Roadmap -->
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bdfb0891320df4bde6c66e?variant=dark" alt="roadmap.sh"/></a>
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ayna-sec/count.svg) <!-- credits: https://x.com/ryanlanciaux/status/1283755637126705152 -->
