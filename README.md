@@ -76,10 +76,9 @@ I've always felt curious for cybersecurity and this year I fully decided to tran
 
 ## 📈 Progress & Badges
 <!-- TryHackMe -->
-
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/goldendynasty.png)
 
 <!-- Roadmap -->
-
-
+![roadmap.sh](https://roadmap.sh/card/tall/66bdfb0891320df4bde6c66e?variant=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/ayna-sec/count.svg) <!-- credits: https://x.com/ryanlanciaux/status/1283755637126705152 -->
