@@ -1,10 +1,13 @@
-
 ```
 🚧 UNDER CONSTRUCTION! 🚧
 ```                                                                                                                                                                 
 
-## 👋 Hello, I'm Angie Yuliana
-- I'm Angie Yuliana, and I'm on my way to become a Cybersecurity Analyst.
+## About me
+I'm Angie Yuliana, and I'm on my way to become a Cybersecurity Analyst.
+I am transitioning into the cybersecurity field, studying as a SOC Analyst at Hack The Box and having completed a bootcamp at Upgrade hub. I am constantly improving my skills to meet the challenges of the sector. My experience in various industries has allowed me to develop meticulous attention to detail and the skills to work under pressure. I have a strong background in quality management and problem solving. With a solid foundation in Law from the University of Alicante, I aim to combine my legal knowledge with my technical skills in log analysis, incident response, intelligence and forensic analysis.
+
+My motivation lies in contributing to a secure digital environment, applying my meticulous attention to detail and problem-solving skills in this dynamic technology sector.
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/angie-yuliana-naranjo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 📚 Courses
@@ -17,21 +20,18 @@ HTB/Linux Fundamentals                   █████████████
 arcX/Cyber Threat Intelligence 101       ████████████████████   100 %
 UpgradeHub/Cybersecurity Bootcamp        ████████████████████   100.00 %
 THM/SOC Level 1                          ██░░░░░░░░░░░░░░░░░░   13.00 %
-HTB/Intro to Network Analysis            █░░░░░░░░░░░░░░░░░░░   05.00 %
+HTB/SOC Analyst Path                     ███░░░░░░░░░░░░░░░░░   17.00 %
 .........................
-> updated on 24/09/2024 <
+> updated on 02/12/2024 <
 .........................
 ```
-
-## Objective
-
-I've always felt curious for cybersecurity and this year I fully decided to transition to this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Projects showcasing cybersecurity skills
 
 | Project                                         | Status         |
 |-----------------------------------------------|----------------------------|
-| SOC automation: Wazuh & SOAR implementation   | In progress: <a href="https://ayna-sec.github.io/blog/projects/Open-Source-SOC-automation-project/">Part 1/?</a> |
+| SOC automation: Wazuh (SIEM) & Shuffle (SOAR implementation)   | In progress: <a href="https://ayna-sec.github.io/blog/projects/Open-Source-SOC-automation-project/">Part 1/?</a> |
+| ELK (SIEM), osTicket (ticketing system), Mythic Framework, Log Analysis, EDR implementation   | <a href="https://ayna-sec.github.io/blog/projects/SOC-Project-MyDFIR-30-day-SOC-Analyst-challenge/">Full Project</a> |
 <!--| Network Traffic Monitoring and Attack Detection | Conception Stage |
 | Security Automation with Shuffle SOAR         | Conception Stage |
 | Incident Response Planning and Execution      | Conception Stage |
@@ -54,7 +54,14 @@ I've always felt curious for cybersecurity and this year I fully decided to tran
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/Wazuh-5A0FC8?style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wazuh-0fb6e0?style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-0fe0c1?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+    
+</div>
+
+### Ticketing system
+<div>
+    <img src="https://img.shields.io/badge/osTicket-f38035?style=for-the-badge&logo=osTicket&logoColor=white" />
 </div>
 
 ### Forensics
@@ -79,6 +86,6 @@ I've always felt curious for cybersecurity and this year I fully decided to tran
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/goldendynasty.png)
 
 <!-- Roadmap -->
-![roadmap.sh](https://roadmap.sh/card/tall/66bdfb0891320df4bde6c66e?variant=dark)
+[![roadmap.sh](https://roadmap.sh/card/wide/66bdfb0891320df4bde6c66e?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 
 ![Visitor Count](https://profile-counter.glitch.me/ayna-sec/count.svg) <!-- credits: https://x.com/ryanlanciaux/status/1283755637126705152 -->
